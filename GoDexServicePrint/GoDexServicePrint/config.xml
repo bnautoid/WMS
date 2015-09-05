@@ -4,5 +4,6 @@
   <LabelHeight>600</LabelHeight>
   <DataFiles>data</DataFiles>
   <PrinterName>Godex EZ-1200 Plus</PrinterName>
+  <PrinterName>Godex EZ-1200 Plus xxxxxx</PrinterName>
   <TemplateName>TemplatePrint.txt</TemplateName>
 </BNAConfiguration>
